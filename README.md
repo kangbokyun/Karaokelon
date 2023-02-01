@@ -48,4 +48,4 @@
    - 컨트롤러(Controller) : -- Controller
  - 주석 : Controller(Mapping) / Service(Method) 설명 기재
 
-![ERD drawio](https://user-images.githubusercontent.com/91529033/194995265-63c31d65-b67e-40ea-a817-6bca20e570f5.png)
+![KaraokelonDB](https://user-images.githubusercontent.com/91529033/215941962-e60b6eee-bac4-43c3-883a-8653d888fd77.png)
