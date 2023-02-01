@@ -12,7 +12,7 @@
 ## 3. 개발환경
  - 운영체제 : Windows10
  - Front-end : HTML, CSS, JS, Bootstrap
- - Back-end : JDK 11, Spring Framework
+ - Back-end : JDK 17, SpringBoot 3
  - Database : MySQL
  - Server : Tomcat
  - Version Control : Git
